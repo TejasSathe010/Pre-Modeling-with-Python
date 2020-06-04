@@ -2,6 +2,7 @@
 
 ## Pre-Modeling: Data Preprocessing and Feature Exploration in Python
 ### Goal
+<pre>
 - Goal:
  -1. Pre-modeling/modeling 80%/20% of work 
  -2. Show the importance of data preprocessing, feature exploration, and feature engineering on model performace
@@ -31,3 +32,4 @@ Source of 'adult' dataset: https://archive.ics.uci.edu/ml/datasets/Adult
  -10. Interactions between features
  -11. Dimensionality reduction using PCA
  -12. Feature Selection and Model Building
+</pre>
