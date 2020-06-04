@@ -2,15 +2,15 @@
 
 ## Pre-Modeling: Data Preprocessing and Feature Exploration in Python
 ### Goal
-- Goal:
-> Pre-modeling/modeling 80%/20% of work
-> Show the importance of data preprocessing, feature exploration, and feature engineering on model performace
-> Go over a few effective pre-modeling steps
-> This is only a small subset of pre-modeling
-- Format:
-> Tutorial style
-> Walk through concepts and code (and point out libraries)
-> Use an edited version of the 'adult' dataset (to predict income) with the objective of building a binary classification model
+> Goal:
+ -1. Pre-modeling/modeling 80%/20% of work 
+ -2. Show the importance of data preprocessing, feature exploration, and feature engineering on model performace
+ -3. Go over a few effective pre-modeling steps
+ -4. This is only a small subset of pre-modeling
+> Format:
+ -1. Tutorial style
+ -2. Walk through concepts and code (and point out libraries)
+ -3. Use an edited version of the 'adult' dataset (to predict income) with the objective of building a binary classification model
 - Python libraries:
 Numpy
 Pandas
